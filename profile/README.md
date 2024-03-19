@@ -4,6 +4,8 @@ With the emergence of new Bayesian optimization tools for the physical sciences,
 
 👉 See https://ac-bo-hackathon.github.io/ for more info.
 
+The website repository is hosted at https://github.com/AC-BO-Hackathon/ac-bo-hackathon.github.io.
+
 <!--
 
 **Here are some ideas to get you started:**
